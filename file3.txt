@@ -1,2 +1,3 @@
 This is file3.txt
 Another line is added in the file
+A small bug is fixed.
